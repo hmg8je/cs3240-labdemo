@@ -1,2 +1,4 @@
-if __name__ == "__main__":
-print("Hello")
+
+def greeting(msg):
+        print(msg)
+greeting("hello")
